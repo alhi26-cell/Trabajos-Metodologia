@@ -1,0 +1,205 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="p_x_TtlpfkTLxvUU2eNv">
+    <mxGraphModel dx="3655" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-67" connectable="0" parent="1" style="group;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="1810" width="1783" x="-450" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="jUE-m4YaPa7BH-95jBHP-2" parent="OnzFPmmFvoY_7-0x2nbm-67" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;fillColor=light-dark(#FFFFFF,#1A1A1A);" value="" vertex="1">
+          <mxGeometry height="1940" width="1940" x="-157" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-3" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-1" parent="OnzFPmmFvoY_7-0x2nbm-67" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="INICIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-4" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-2" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" value="ELEGIR EL METODO DE PAGO" vertex="1">
+          <mxGeometry height="70" width="160" x="780" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-8" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-6" parent="OnzFPmmFvoY_7-0x2nbm-67" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=0;shadow=1;" value="INGRESAR DATOS DE PAGO" vertex="1">
+          <mxGeometry height="80" width="160" x="780" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-16" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-4" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TkYG4iy7gVYeaGcWBOZh-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="861" y="640" />
+              <mxPoint x="861" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-7" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="¿LOS DATOS DE PAGO SON CORRECTOS?" vertex="1">
+          <mxGeometry height="120" width="137.5" x="792.5" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-13" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="45" x="864" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-15" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="710" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-40" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="690" />
+              <mxPoint x="580" y="360" />
+            </Array>
+            <mxPoint x="540" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-17" parent="OnzFPmmFvoY_7-0x2nbm-67" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=0;shadow=1;" value="MOSTRAR DATOS INCORRECTOS" vertex="1">
+          <mxGeometry height="80" width="160" x="600" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-12" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OnzFPmmFvoY_7-0x2nbm-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1210" />
+              <mxPoint x="720" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-13" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="1210" />
+              <mxPoint x="1000" y="1210" />
+            </Array>
+            <mxPoint x="1080" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-31" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="¿SE APROBÓ EL PAGO?" vertex="1">
+          <mxGeometry height="120" width="137.5" x="791.25" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-62" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;libavoidRouting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="1330" />
+              <mxPoint x="861" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-42" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" value="MOSTRAR EL PAGO APROBADO" vertex="1">
+          <mxGeometry height="80" width="160" x="1080" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-44" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="30" x="701" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-45" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="30" x="980" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-8" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="1210" />
+            </Array>
+            <mxPoint x="349" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-47" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" value="REGISTRAR EL PAGO RECHAZADO" vertex="1">
+          <mxGeometry height="80" width="160" x="480" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-53" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;libavoidRouting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="941" />
+              <mxPoint x="438" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-49" parent="OnzFPmmFvoY_7-0x2nbm-67" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rounded=0;shadow=1;" value="MOSTRAR MENSAJE DE PAGO RECHAZADO&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="160" x="270" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-55" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="439.06" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-19" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OnzFPmmFvoY_7-0x2nbm-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337" y="802.5" />
+              <mxPoint x="210" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-51" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="¿INTENTAR DE NUEVO?" vertex="1">
+          <mxGeometry height="120" width="137.5" x="369" y="742.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-56" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="45" x="385" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-57" parent="OnzFPmmFvoY_7-0x2nbm-67" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="&lt;div&gt;FIN&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="763" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-59" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="45" x="260" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-65" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="OnzFPmmFvoY_7-0x2nbm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;libavoidRouting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" target="OnzFPmmFvoY_7-0x2nbm-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-61" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" value="CONFIRMAR PEDIDO" vertex="1">
+          <mxGeometry height="80" width="160" x="781.25" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="OnzFPmmFvoY_7-0x2nbm-63" parent="OnzFPmmFvoY_7-0x2nbm-67" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="&lt;div&gt;FIN&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="137.5" x="792.5" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-15" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="TkYG4iy7gVYeaGcWBOZh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;libavoidRouting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OnzFPmmFvoY_7-0x2nbm-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="802" />
+              <mxPoint x="649" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-21" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="TkYG4iy7gVYeaGcWBOZh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="910" />
+              <mxPoint x="860" y="910" />
+            </Array>
+            <mxPoint x="860.25" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TkYG4iy7gVYeaGcWBOZh-1" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;shadow=1;" value="¿TIENE SALDO SUFICIENTE?" vertex="1">
+          <mxGeometry height="120" width="137.5" x="791.5" y="742" as="geometry" />
+        </mxCell>
+        <mxCell id="TkYG4iy7gVYeaGcWBOZh-4" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;NO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="30" x="640" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="TkYG4iy7gVYeaGcWBOZh-58" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;shadow=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SI&lt;/font&gt;" vertex="1">
+          <mxGeometry height="25" width="30" x="871.5" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="kh8bpfmaZ3JlvWOb9YON-1" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;REGLA&amp;nbsp; DE NEGOCIO NUMERO 3: VALIDACIÓN DE PAGO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="540" x="1065" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kh8bpfmaZ3JlvWOb9YON-2" parent="OnzFPmmFvoY_7-0x2nbm-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MODULO PRINCIPAL: PAGOS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="529" x="969" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-23" edge="1" parent="OnzFPmmFvoY_7-0x2nbm-67" source="tR8c_Omo5TbvjmpBmFBP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;libavoidRouting=1;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="861" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tR8c_Omo5TbvjmpBmFBP-2" parent="OnzFPmmFvoY_7-0x2nbm-67" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" value="ENVIAR EL PAGO A PROCESAR" vertex="1">
+          <mxGeometry height="80" width="160" x="781" y="970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
