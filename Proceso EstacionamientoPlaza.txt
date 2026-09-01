@@ -1,0 +1,33 @@
+Proceso EstacionamientoPlaza
+
+    Definir matricula Como Caracter
+    Definir registrado Como Caracter
+    Definir hayEspacios Como Caracter
+    Definir espacios Como Entero
+
+    espacios <- 10
+
+    Escribir "Ingrese la matrícula:"
+    Leer matricula
+
+    Escribir "¿El vehículo está registrado?"
+    Leer registrado
+
+    Si Mayusculas(registrado) = "SI" Entonces
+
+        Escribir "¿Hay espacios disponibles?"
+        Leer hayEspacios
+
+        Si Mayusculas(hayEspacios) = "SI" Entonces
+            Escribir "Acceso permitido"
+            espacios <- espacios - 1
+            Escribir "Espacios disponibles ahora: ", espacios
+        Sino
+            Escribir "Acceso no permitido: no hay espacios disponibles"
+        FinSi
+
+    Sino
+        Escribir "Acceso no permitido: vehículo no registrado"
+    FinSi
+
+FinProceso
